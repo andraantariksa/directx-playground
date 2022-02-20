@@ -1,0 +1,1 @@
+fxc src\shaders\main.vert.hlsl /Fo main.vert.cso

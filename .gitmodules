@@ -1,0 +1,6 @@
+[submodule "external/CrossWindow"]
+	path = external/CrossWindow
+	url = https://github.com/alaingalvan/CrossWindow.git
+[submodule "external/DirectX-Headers"]
+	path = external/DirectX-Headers
+	url = https://github.com/microsoft/DirectX-Headers.git
